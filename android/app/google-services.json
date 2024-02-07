@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044655824860",
+    "project_id": "plural-2d360",
+    "storage_bucket": "plural-2d360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044655824860:android:4b5e502b1034ef0be57919",
+        "android_client_info": {
+          "package_name": "com.plural"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrPTMG3jKQUioP70ebVLjL79z9XJTo74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
